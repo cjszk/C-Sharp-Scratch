@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Playground.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Playground.csprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\MyLibrary.dll
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\MyLibrary.pdb
+C:\Users\Chris\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\Playground.csproj.CopyComplete
