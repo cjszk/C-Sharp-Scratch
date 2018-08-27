@@ -80,7 +80,6 @@ C:\Users\Chris\source\repos\HelloMVC\HelloMVC\bin\Microsoft.AI.DependencyCollect
 C:\Users\Chris\source\repos\HelloMVC\HelloMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Chris\source\repos\HelloMVC\HelloMVC\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Chris\source\repos\HelloMVC\HelloMVC\bin\Microsoft.AI.Web.xml
-C:\Users\Chris\source\repos\HelloMVC\HelloMVC\obj\Debug\HelloMVC.csprojResolveAssemblyReference.cache
 C:\Users\Chris\source\repos\HelloMVC\HelloMVC\obj\Debug\HelloMVC.csproj.CoreCompileInputs.cache
 C:\Users\Chris\source\repos\HelloMVC\HelloMVC\obj\Debug\HelloMVC.csproj.CopyComplete
 C:\Users\Chris\source\repos\HelloMVC\HelloMVC\obj\Debug\HelloMVC.dll
